@@ -6,6 +6,10 @@ def add(a, b):  # Ajout d'un espace après la virgule
 def multiply(x, y):
     return x * y  # Ajout d'un espace avant le commentaire
 
+def nono(x):
+    return x
+
 class MyClass:
     def __init__(self):
         self.value = 0  # Ajout d'espaces autour de '='
+
