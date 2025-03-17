@@ -1,7 +1,9 @@
-# main.py
+def add(a, b):  # Ajout d'un espace après la virgule
+    return a + b  # Correction de l'indentation (4 espaces)
 
-def add(a, b):
-    return a + b  
+def multiply(x, y):
+    return x * y  # Ajout d'un espace avant le commentaire
 
-if __name__ == "__main__":
-    print("3 + 5 =", add(3, 5))  
+class MyClass:
+    def __init__(self):
+        self.value = 0  # Ajout d'espaces autour de '='
