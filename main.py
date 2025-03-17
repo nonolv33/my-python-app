@@ -1,3 +1,5 @@
+import os # Erreur : import inutilisé
+
 def add(a, b):  # Ajout d'un espace après la virgule
     return a + b  # Correction de l'indentation (4 espaces)
 
